@@ -1,0 +1,3 @@
+¿Cómo se puede desarrollar una solución web con buenas prácticas, 
+que satisfaga las necesidades del cliente y cumpla con los estándares 
+de calidad actuales de la industria y el mercado?
