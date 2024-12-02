@@ -1,3 +1,11 @@
 ¿Cómo se puede desarrollar una solución web con buenas prácticas, 
 que satisfaga las necesidades del cliente y cumpla con los estándares 
 de calidad actuales de la industria y el mercado?
+
+A la hora de desarrollar una solución web, con buenas prácticas, debemos pensar primero como cliente, que a la final es para quien estamos desarrollando, que sea una página fluida entendible, práctica que cumpla con todas las especificaciones, que el cliente sienta seguridad a la hora de entrar en esta página, amigable entretenida, son muchas cosas que se pueden hacer.
+También debemos someter estas soluciones a prácticas antes de mostrarle al cliente que sea un producto terminado pero actualizable, que se apoye en las nuevas tecnologías, que sea multiplataforma y que se pueda adaptar a las necesidades que se van requiriendo cada día. 
+Creo que lo más importante es garantizar la calidad y la fiabilidad de las soluciones web, las herramientas utilizadas para este fin, deben de contar con todos los requisitos necesarios para poder garantizar la calidad tanto al cliente como a la industria.
+
+
+
+https://github.com/EduanLisandro/funcionesJavaScript/tree/master
